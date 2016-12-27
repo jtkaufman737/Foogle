@@ -27,7 +27,7 @@ body {
   font-size: 15px;
   font-weight: 400;
   line-height: 20px;
-  margin-left:-10%; /* COMMENT OUT WHENEVER I FIGURE OUT WHAT THIS LOOKS LIKE ON A NORMAL SCREEN -JT TO SELF*/
+  margin-left:-75%; /* COMMENT OUT WHENEVER I FIGURE OUT WHAT THIS LOOKS LIKE ON A NORMAL SCREEN -JT TO SELF*/
   padding: 0;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: subpixel-antialiased;
@@ -2097,6 +2097,11 @@ template,
 .text-black {
   color: #212121;
   direction:ltr;
+}
+
+.text-black:hover{
+    color:#4277f4;
+    font-size:larger;
 }
 
 .text-black-divider {
