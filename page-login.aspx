@@ -29,7 +29,7 @@
 							<div class="card-main">
 								<div class="card-header">
 									<div class="card-inner">
-										<h1 class="card-heading">ورود</h1>
+										<h1 class="card-heading">We are the knights who say</h1>
 									</div>
 								</div>
 								<div class="card-inner">
@@ -42,7 +42,7 @@
 										<div class="form-group form-group-label">
 											<div class="row">
 												<div class="col-md-10 col-md-push-1">
-													<label class="floating-label" for="ui_login_username">نام کاربری</label>
+													<label class="floating-label" for="ui_login_username">Your mother was a hamster</label>
 													<input class="form-control" id="ui_login_username" type="text">
 												</div>
 											</div>
@@ -50,7 +50,7 @@
 										<div class="form-group form-group-label">
 											<div class="row">
 												<div class="col-md-10 col-md-push-1">
-													<label class="floating-label" for="ui_login_password">رمز عبور</label>
+													<label class="floating-label" for="ui_login_password">And your father smelled of elderberries</label>
 													<input class="form-control" id="ui_login_password" type="password">
 												</div>
 											</div>
@@ -58,7 +58,7 @@
 										<div class="form-group">
 											<div class="row">
 												<div class="col-md-10 col-md-push-1">
-													<button class="btn btn-block btn-brand waves-attach waves-light">ورود به سیستم</button>
+													<button class="btn btn-block btn-brand waves-attach waves-light" onclick="function kniGhts() { alert("Kni!Kni!"); }>Kni</button>
 												</div>
 											</div>
 										</div>
@@ -67,8 +67,8 @@
 												<div class="col-md-10 col-md-push-1">
 													<div class="checkbox checkbox-adv">
 														<label for="ui_login_remember">
-															<input class="access-hide" id="ui_login_remember" name="ui_login_remember" type="checkbox">آنلاین بمان
-															<span class="checkbox-circle"></span><span class="checkbox-circle-check"></span><span class="checkbox-circle-icon icon">done</span>
+															<input class="access-hide" id="ui_login_remember" name="ui_login_remember" type="checkbox" />Kni
+															<span class="checkbox-circle"></span><span class="checkbox-circle-check"></span><span class="checkbox-circle-icon icon"></span>
 														</label>
 													</div>
 												</div>
@@ -79,8 +79,8 @@
 							</div>
 						</div>
 						<div class="clearfix">
-							<p class="margin-no-top pull-left"><a class="btn btn-flat btn-brand waves-attach" href="javascript:void(0)">نیاز به راهنمایی داری؟</a></p>
-							<p class="margin-no-top pull-right"><a class="btn btn-flat btn-brand waves-attach" href="javascript:void(0)">ایجاد حساب کاربری جدید</a></p>
+							<p class="margin-no-top pull-left"><a class="btn btn-flat btn-brand waves-attach" href="#">"Kni!"</a></p>
+							<p class="margin-no-top pull-right"><a class="btn btn-flat btn-brand waves-attach" href="#">"Kni!"</a></p>
 						</div>
 					</section>
 				</div>
@@ -89,7 +89,7 @@
 	</main>
 	<footer class="ui-footer">
 		<div class="container">
-			<p>متریال</p>
+			<p>Now go away, or I shall taunt you a second time</p>
 		</div>
 	</footer>
 

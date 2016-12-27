@@ -820,3 +820,13 @@ if("undefined"==typeof jQuery)throw new Error("Bootstrap's JavaScript requires j
 			duration: 600
 		});
 	});
+
+	function alertMe() {
+	    alert("Ey you, quit pokin' me");
+	}
+
+	function kniGhts() {
+	    alert("Kni!");
+	    alert("Kni!");
+
+	}
